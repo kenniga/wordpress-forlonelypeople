@@ -1,0 +1,66 @@
+/*
+Theme Name: WPEX New York
+Theme URI: http://wpexplorer-themes.com/new-york/
+Author: WPExplorer
+Author URI: http://www.wpexplorer.com/
+Description: New York premium WordPress theme.
+Version: 1.4.0
+License: Custom license
+License URI: http://themeforest.net/licenses/terms/regular
+Text Domain: wpex-new-york
+Notes: Un-compressed SASS files availablef or devs
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Accessability
+# Layout
+# Grids
+# Typography
+# Elements
+# Forms
+# Alignments
+# WordPress Core
+# Site
+    ## Header
+    ## Menus
+    ## Widget Areas
+    ## Modules
+    ## Home
+    ## Archives
+    ## Page
+    ## Entry
+    ## Post
+    ## Widgets
+    ## Footer
+    ## Templates
+    ## 404
+    ## Search Results
+    ## WooCommerce
+    ## Responsive
+# Plugins
+# Lib
+
+--------------------------------------------------------------*/
+
+// FUNCTIONS / VARIABLES / MIXINS
+@import "functions";
+@import "variables";
+@import "mixins";
+
+// CSS
+@import "normalize";
+@import "accessibility";
+@import "layout";
+@import "grids";
+@import "typography/typography";
+@import "elements";
+@import "forms/forms";
+@import "buttons";
+@import "alignments";
+@import "wordpress";
+@import "site/site";
+@import "plugins/plugins";
+@import "lib/lib";

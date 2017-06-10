@@ -1,0 +1,1143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: New York WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 09:41-0800\n"
+"PO-Revision-Date: 2016-07-26 10:42-0800\n"
+"Last-Translator: \n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Lawpex-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"X-Poedit-KeywordsList: esc_html_e;gettext;gettext_noop;__;_e;_n;_nx;"
+"esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/wpex-framework/tgmpa\n"
+
+#: comments.php:42
+msgid "This Article Has 1 Comment"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "This Article Has %s Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Be the first to comment"
+msgstr ""
+
+#: comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:76
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:92
+msgid "Comments are now closed."
+msgstr ""
+
+#: inc/blocks-entry.php:16
+msgid "Categories"
+msgstr ""
+
+#: inc/blocks-entry.php:17 inc/blocks-page.php:16 inc/blocks-post.php:17
+#: inc/theme-mods/settings/header.php:18
+msgid "Header"
+msgstr ""
+
+#: inc/blocks-entry.php:18 inc/widgets/classes/posts-thumbnails.php:203
+msgid "Date"
+msgstr ""
+
+#: inc/blocks-entry.php:19 inc/blocks-page.php:17 inc/blocks-post.php:16
+msgid "Media"
+msgstr ""
+
+#: inc/blocks-entry.php:20 inc/blocks-page.php:18 inc/blocks-post.php:19
+#: inc/widgets/classes/about.php:151
+msgid "Content"
+msgstr ""
+
+#: inc/blocks-entry.php:21 template-parts/social-share.php:32
+msgid "Share"
+msgstr ""
+
+#: inc/blocks-page.php:19 inc/blocks-post.php:20
+msgid "Next Page Links"
+msgstr ""
+
+#: inc/blocks-page.php:20 inc/blocks-post.php:24
+msgid "Comments"
+msgstr ""
+
+#: inc/blocks-page.php:21 inc/blocks-post.php:25
+msgid "Edit Link"
+msgstr ""
+
+#: inc/blocks-post.php:18
+msgid "Meta"
+msgstr ""
+
+#: inc/blocks-post.php:21 inc/theme-mods/settings/posts.php:99
+msgid "Tags"
+msgstr ""
+
+#: inc/blocks-post.php:22
+msgid "Post Author"
+msgstr ""
+
+#: inc/blocks-post.php:23
+msgid "Related Posts"
+msgstr ""
+
+#: inc/image-sizes.php:14
+msgid "Entry"
+msgstr ""
+
+#: inc/image-sizes.php:15
+msgid "Single Post"
+msgstr ""
+
+#: inc/image-sizes.php:16
+msgid "Related Entries"
+msgstr ""
+
+#: inc/image-sizes.php:17
+msgid "Pages"
+msgstr ""
+
+#: inc/image-sizes.php:18
+msgid "Home Slider"
+msgstr ""
+
+#: inc/menus.php:14
+msgid "Main"
+msgstr ""
+
+#: inc/menus.php:15
+msgid "Mobile Alternative"
+msgstr ""
+
+#: inc/menus.php:16
+msgid "Before Footer"
+msgstr ""
+
+#: inc/meta-pages.php:38
+msgid "Page Settings"
+msgstr ""
+
+#: inc/meta-pages.php:70 inc/meta-posts.php:64 inc/theme-mods/register.php:22
+#: inc/woocommerce/inc/woo-theme-mods.php:41
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:123
+msgid "Default"
+msgstr ""
+
+#: inc/meta-pages.php:71 inc/meta-posts.php:65 inc/theme-mods/register.php:31
+#: inc/woocommerce/inc/woo-theme-mods.php:51
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta-pages.php:72 inc/meta-posts.php:66 inc/theme-mods/register.php:32
+#: inc/woocommerce/inc/woo-theme-mods.php:52
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-pages.php:73 inc/meta-posts.php:67 inc/theme-mods/register.php:33
+#: inc/woocommerce/inc/woo-theme-mods.php:53
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/meta-pages.php:78 inc/meta-posts.php:72
+#: inc/woocommerce/inc/woo-theme-mods.php:70
+#: inc/woocommerce/inc/woo-theme-mods.php:128
+msgid "Layout"
+msgstr ""
+
+#: inc/meta-pages.php:89
+msgid "Hide Title"
+msgstr ""
+
+#: inc/meta-posts.php:37
+msgid "Post Settings"
+msgstr ""
+
+#: inc/meta-posts.php:84
+msgid "Video"
+msgstr ""
+
+#: inc/meta-posts.php:88
+msgid ""
+"Enter a URL that is compatible with WordPress's built-in oEmbed function or "
+"self-hosted video function."
+msgstr ""
+
+#: inc/meta-posts.php:96
+msgid "Audio"
+msgstr ""
+
+#: inc/meta-posts.php:100
+msgid ""
+"Enter your embed code or enter in a URL that is compatible with WordPress's "
+"built-in oEmbed function or self-hosted video function."
+msgstr ""
+
+#: inc/more-link.php:14 inc/wpex-framework/helpers.php:769
+#: template-parts/entry/content.php:35
+msgid "read more"
+msgstr ""
+
+#: inc/register-sidebars.php:20
+msgid "Sidebar - Main"
+msgstr ""
+
+#: inc/register-sidebars.php:26
+msgid "Main sidebar displayed across the whole site."
+msgstr ""
+
+#: inc/register-sidebars.php:31
+msgid "Sidebar - Pages"
+msgstr ""
+
+#: inc/register-sidebars.php:37
+msgid "Will override the Main sidebar for pages only."
+msgstr ""
+
+#: inc/register-sidebars.php:42
+msgid "Instagram - Footer"
+msgstr ""
+
+#: inc/register-sidebars.php:48
+msgid ""
+"Widget area specifically for a full-width instagram grid in the footer area, "
+"but you can technically add any widgets you want."
+msgstr ""
+
+#: inc/register-sidebars.php:53
+msgid "Social - Footer"
+msgstr ""
+
+#: inc/register-sidebars.php:59
+msgid ""
+"Widget area specifically for adding the \"Social Profiles\" to the bottom of "
+"the site under the copyright text, but you can technically add any widgets "
+"you want."
+msgstr ""
+
+#: inc/register-sidebars.php:68 inc/theme-mods/settings/footer.php:18
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-mods/register.php:38
+msgid "General Theme Settings"
+msgstr ""
+
+#: inc/theme-mods/settings/discussion.php:18
+msgid "Discussion"
+msgstr ""
+
+#: inc/theme-mods/settings/discussion.php:24
+msgid "Comments For Pages"
+msgstr ""
+
+#: inc/theme-mods/settings/discussion.php:32
+msgid "Comments For Posts"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:18
+msgid "Entries"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:24
+msgid "Entry Style"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:27
+msgid "Full"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:28
+msgid "Left/right"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:29
+msgid "Grid"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:37
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:51
+msgid "Grid Layout Mode"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:54
+msgid "Fit Rows"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:55
+msgid "Masonry"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:63
+msgid "Entry Displays?"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:66
+msgid "Custom Excerpt"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:67
+msgid "Full Content"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:75
+msgid "Entry Excerpt Length"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:77
+msgid "How many words to display per excerpt"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:85
+msgid "Entry Thumbnail"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:93
+msgid "Entry Embeds"
+msgstr ""
+
+#: inc/theme-mods/settings/entries.php:95
+msgid ""
+"Display's your video/audio embed on the homepage and archives instead of the "
+"featured image."
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:24
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:27 inc/theme-mods/settings/home.php:23
+msgid "None - Disable"
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:33
+msgid ""
+"Because of how WordPress works if you alter this option you must save the "
+"Customizer and refresh the page if you wish to use the added widget areas."
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:40
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:42
+msgid ""
+"Enable the Footer Bottom section which displays the copyright content and "
+"Social Footer widget area."
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:49
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/theme-mods/settings/footer.php:51
+msgid "Use shortcode [wpex_current_year] to display current year."
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:24
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:31
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:38
+msgid "Custom Retina Logo"
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:45
+msgid "Standard Logo Height"
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:46
+msgid ""
+"Enter the standard height for your logo. Used to set your retina logo to the "
+"correct dimensions."
+msgstr ""
+
+#: inc/theme-mods/settings/header.php:54
+msgid "Display Site Description?"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:24
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:35
+msgid "Home"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:41
+msgid "Homepage Slider Content"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:44
+msgid ""
+"In order for your slider to look good it is best if all the images are the "
+"same size. If your featured images vary in sizes be sure to go to the Image "
+"Sizes tab in the customizer to enter your custom width and height for your "
+"slider images and then regenerate your thumbnails."
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:51
+msgid "Homepage Slider Count"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:53
+msgid ""
+"Minimum and recommended number is 6. If you do not have at least 6 unique "
+"posts to display the carousel will repeat the same item because of the "
+"infinite loop function of the carousel. You can always disable the carousel "
+"until your blog has enough content to display it nicely."
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:61
+msgid "Exclude Posts From Main Loop?"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:63
+msgid ""
+"Check this box to exclude posts included in the slider from the homepage "
+"main loop."
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:70
+msgid "Disable Slider on Paginated Pages?"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:72
+msgid ""
+"Check this box to display the slider on the first page of the homepage only "
+"and not when clicking the next and previous post links."
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:78
+msgid "Custom Code"
+msgstr ""
+
+#: inc/theme-mods/settings/home.php:80
+msgid "HTML and shortcodes allowed."
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:20
+msgid "False"
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:21
+msgid ""
+"If you alter any image sizes you will have to regenerate your thumbnails."
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:33
+msgid "Image Width"
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:42
+msgid "Image Height"
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:51
+msgid "Crop"
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:61
+msgid "Image Sizes"
+msgstr ""
+
+#: inc/theme-mods/settings/image-sizes.php:62
+msgid ""
+"By default this theme does not crop any images so you can customize your "
+"settings first and prevent unnecessary image cropping. Below you will find "
+"all the settings needed to crop the images on your site. Be sure to install "
+"a regenerate plugin so you can regenerate your thumbnails whenvever you "
+"alter these values."
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:18
+msgid "Layouts"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:19
+msgid ""
+"These are the default layouts for your site. You can always change the "
+"layout on a per post or per page basis via the meta settings."
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:25
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:33
+msgid "Homepage Layout"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:42
+msgid "Archives Layout"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:45
+msgid "Categories, tags, author...etc"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:53
+msgid "Search Layout"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:62
+msgid "Post Layout"
+msgstr ""
+
+#: inc/theme-mods/settings/layouts.php:71
+msgid "Page Layout"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:18
+msgid "Posts"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:24
+msgid "Post Thumbnail"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:32
+msgid "Post Meta"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:40
+msgid "Post Tags"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:48
+msgid "Post Social Share"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:57
+msgid "Post Author Box"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:66
+msgid "Post Next/Previous"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:74
+msgid "Post Related"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:82
+msgid "Post Related Columns"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:96
+msgid "Relate Posts by"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:100
+#: inc/widgets/classes/posts-thumbnails.php:222
+msgid "Category"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:101
+#: inc/widgets/classes/posts-thumbnails.php:207
+msgid "Random"
+msgstr ""
+
+#: inc/theme-mods/settings/posts.php:110
+msgid "Post Related: Count"
+msgstr ""
+
+#: inc/theme-mods/settings/search.php:18
+msgid "Search Results"
+msgstr ""
+
+#: inc/theme-mods/settings/search.php:24
+msgid "Search posts only."
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:19
+msgid "Site Widths"
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:24
+msgid "Container Width"
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:26
+#: inc/theme-mods/settings/site-widths.php:35
+#: inc/theme-mods/settings/site-widths.php:43
+#: inc/theme-mods/settings/site-widths.php:51
+msgid "Default:"
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:32
+msgid "Container Max Width Percent"
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:41
+msgid "Content Area Width"
+msgstr ""
+
+#: inc/theme-mods/settings/site-widths.php:49
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/widgets/classes/about.php:137 inc/widgets/classes/facebook-page.php:118
+#: inc/widgets/classes/instagram-grid.php:205
+#: inc/widgets/classes/posts-thumbnails.php:180
+#: inc/widgets/classes/posts-thumbnails.php:204
+#: inc/widgets/classes/video.php:120
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/classes/about.php:143
+msgid "Image url"
+msgstr ""
+
+#: inc/widgets/classes/about.php:147
+msgid "Rounded image?"
+msgstr ""
+
+#: inc/widgets/classes/about.php:147
+msgid ""
+"If enabled make sure to add an image with square dimensions to prevent "
+"distortion of the image."
+msgstr ""
+
+#: inc/widgets/classes/about.php:155
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:29
+msgid "Comments With Avatars"
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:82
+msgid "Read Comment"
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:99
+msgid "more"
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:110
+msgid "No comments yet."
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:153
+#: inc/widgets/classes/social.php:226
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/classes/comments-avatar.php:158
+msgid "Number to Show:"
+msgstr ""
+
+#: inc/widgets/classes/facebook-page.php:31
+msgid "Facebook Page"
+msgstr ""
+
+#: inc/widgets/classes/facebook-page.php:70
+msgid ""
+"Facebook widget does not display in the Customizer because it can slow "
+"things down."
+msgstr ""
+
+#: inc/widgets/classes/facebook-page.php:123
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:28
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:74
+msgid "Please enter an instagram username for your widget."
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:207
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:209
+msgid "Size"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:211
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:132
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:179
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:282
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:301
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:212
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:213
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:214
+msgid "Original"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:218
+#: inc/woocommerce/inc/woo-theme-mods.php:87
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:227
+msgid "Column Gap"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:236
+msgid "Number of photos"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:236
+msgid ""
+"Max 12 photos. This widget scraps instagram so you do not have to use the "
+"API. If you need to display more items you will want to use a 3rd party "
+"plugin."
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:238
+msgid "Open links in"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:240
+msgid "Current window"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:241
+msgid "New window"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:246
+msgid "Cache Notice"
+msgstr ""
+
+#: inc/widgets/classes/instagram-grid.php:246
+msgid ""
+"The instagram feed is refreshed every 2 hours. However, you can click the "
+"save button below to clear the transient and refresh it instantly."
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:28
+msgid "Posts With Thumbnails"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:185
+msgid "Number to Show"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:190
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:193
+msgid "Descending"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:194
+msgid "Ascending"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:199
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:205
+msgid "Modified"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:206
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:208
+msgid "Comment Count"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:211
+msgid "Post Views"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:225
+msgid "All"
+msgstr ""
+
+#: inc/widgets/classes/posts-thumbnails.php:236
+msgid "Image Size"
+msgstr ""
+
+#: inc/widgets/classes/social.php:112
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/classes/social.php:120
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/widgets/classes/social.php:231
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/classes/social.php:236
+msgid "Link Target:"
+msgstr ""
+
+#: inc/widgets/classes/social.php:239
+msgid "Blank"
+msgstr ""
+
+#: inc/widgets/classes/social.php:240
+msgid "Self"
+msgstr ""
+
+#: inc/widgets/classes/social.php:248
+msgid "Social Links"
+msgstr ""
+
+#: inc/widgets/classes/social.php:251
+msgid ""
+"To re-order your items you must be editing the widget at Appearance > "
+"Widgets. You will not be able to Drag and drop to re-order items in the "
+"Customizer."
+msgstr ""
+
+#: inc/widgets/classes/social.php:253
+msgid ""
+"To re-order your items click and drag them around then save your widget."
+msgstr ""
+
+#: inc/widgets/classes/video.php:126
+msgid "Video URL"
+msgstr ""
+
+#: inc/widgets/classes/video.php:128
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: inc/widgets/classes/video.php:128
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/classes/video.php:133
+msgid "Description"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-onsale-badge.php:18
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-pagination-args.php:18
+#: template-parts/archives/pagination.php:43 template-parts/post/gallery.php:39
+#: template-parts/wp-link-pages.php:22
+msgid "Previous"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-pagination-args.php:19
+#: template-parts/archives/pagination.php:44 template-parts/post/gallery.php:40
+#: template-parts/wp-link-pages.php:21
+msgid "Next"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-register-sidebars.php:20
+#: inc/woocommerce/inc/woo-theme-mods.php:58
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:64
+msgid "Shop"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:79
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:96
+msgid "Hide Entry Ratings"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:104
+msgid "Hide Entry Add To Cart Button"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:112
+msgid "Hide Onsale Badge"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:122
+msgid "Products"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:137
+msgid "Related Products Count"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:145
+msgid "Related & Up-Sell Products Columns"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:156
+msgid "Cart"
+msgstr ""
+
+#: inc/woocommerce/inc/woo-theme-mods.php:162
+msgid "Redirect Empty Cart to Shop?"
+msgstr ""
+
+#: inc/wpex-framework/dashboard-thumbnails.php:55
+msgid "Featured Image"
+msgstr ""
+
+#: inc/wpex-framework/gmb/gmb.php:53
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/wpex-framework/gmb/gmb.php:78 inc/wpex-framework/gmb/gmb.php:183
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:142
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:195
+msgid "Remove image"
+msgstr ""
+
+#: inc/wpex-framework/gmb/gmb.php:89
+msgid "Add/Edit Images"
+msgstr ""
+
+#: inc/wpex-framework/gmb/gmb.php:181
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: inc/wpex-framework/gmb/gmb.php:182
+msgid "Add to gallery"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:272
+msgid "Top Left"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:273
+msgid "Top Right"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:274
+msgid "Top Center"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:275
+msgid "Center Left"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:276
+msgid "Center Right"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:277
+msgid "Center Center"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:278
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:279
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/wpex-framework/helpers.php:280
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/wpex-framework/instagram-fetcher.php:32
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/wpex-framework/instagram-fetcher.php:36
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/wpex-framework/instagram-fetcher.php:44
+#: inc/wpex-framework/instagram-fetcher.php:62
+#: inc/wpex-framework/instagram-fetcher.php:67
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/wpex-framework/instagram-fetcher.php:131
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/wpex-framework/instagram-fetcher.php:176
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:87
+msgid "Choose an image"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:88
+msgid "Use image"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:120
+msgid "Page Header Thumbnail"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:124
+msgid "No"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:125
+msgid "Yes"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:143
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:199
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/wpex-framework/term-thumbnails/term-thumbnails.php:335
+msgid "Category/Tag Banner"
+msgstr ""
+
+#: searchform.php:18 searchform.php:19
+msgid "Search"
+msgstr ""
+
+#: template-parts/edit.php:17
+msgid "Edit this"
+msgstr ""
+
+#: template-parts/entry/meta.php:58 template-parts/post/meta.php:65
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/entry/meta.php:58 template-parts/post/meta.php:65
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/entry/meta.php:58 template-parts/post/meta.php:65
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/entry/none.php:26
+msgid "There aren't any posts currently published on this site."
+msgstr ""
+
+#: template-parts/entry/none.php:30
+msgid "This author hasn't written any posts yet."
+msgstr ""
+
+#: template-parts/entry/none.php:34
+msgid "Sorry, but nothing matched your search terms"
+msgstr ""
+
+#: template-parts/entry/none.php:38
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: template-parts/entry/none.php:42
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: template-parts/entry/none.php:46
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: template-parts/entry/none.php:50
+msgid ""
+"Unfortunately, the page you are looking for can not be found. You can use "
+"the  search form below to try and find what you were looking for."
+msgstr ""
+
+#: template-parts/entry/none.php:56
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: template-parts/post/author.php:29
+msgid "Visit Author Page"
+msgstr ""
+
+#: template-parts/post/author.php:35
+msgid "Article by"
+msgstr ""
+
+#: template-parts/post/next-prev.php:24
+msgid "Previous Article"
+msgstr ""
+
+#: template-parts/post/next-prev.php:25
+msgid "Next Article"
+msgstr ""
+
+#: template-parts/post/related.php:84
+msgid "You May Also Like"
+msgstr ""
+
+#: template-parts/scrolltop-button.php:17
+msgid "Top"
+msgstr ""
+
+#: template-parts/social-share.php:18
+msgid "Share This Post"
+msgstr ""
+
+#: template-parts/social-share.php:21
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/social-share.php:22
+msgid "Tweet"
+msgstr ""
+
+#: template-parts/social-share.php:26
+msgid "Share on Google+"
+msgstr ""
+
+#: template-parts/social-share.php:27
+msgid "Plus one"
+msgstr ""
+
+#: template-parts/social-share.php:31
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/social-share.php:36
+msgid "Share on Pinterest"
+msgstr ""
+
+#: template-parts/social-share.php:37
+msgid "Pin it"
+msgstr ""
+
+#: template-parts/social-share.php:41 template-parts/social-share.php:42
+msgid "Comment"
+msgstr ""
